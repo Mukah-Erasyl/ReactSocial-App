@@ -1,0 +1,52 @@
+.musicItem {
+    margin: 20px;
+    border: 2px solid black ;
+    background-color:#85000d ;
+    transform: translate3d(150px);
+    color: aliceblue;
+}
+
+.audio {
+    max-height: 25px;
+    width: 100%;
+}
+
+.musicName {
+    font-family :Georgia, 'Times New Roman', Times, serif ; 
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
+.musicAuthor {
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+}
+
+.head {
+    margin-bottom: 50px;
+    margin-left: 50px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    
+}
+
+.headPictires {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.headPicture img {
+    
+    width: 200px;
+}
+
+.musicIkon img {
+    width: 20px;
+}
+

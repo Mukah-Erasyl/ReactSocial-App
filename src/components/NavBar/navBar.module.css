@@ -1,0 +1,23 @@
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+.active {        /*добавляется дополнительный класс , который уже встроен в NavLink  */
+    color: gold;
+    
+}
+
+
+    
+.nav {
+    grid-area: link;
+    background-color: #655d6b;
+    padding: 5px 10px;
+    
+}
+
+.friendBar {
+    margin-top: 40px;
+}

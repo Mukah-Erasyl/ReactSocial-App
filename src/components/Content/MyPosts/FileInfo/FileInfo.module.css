@@ -1,0 +1,64 @@
+.fileInfoEl {
+    margin-bottom: 15px;
+}
+.fileInfoElProfile img {
+    width: 250px;
+    border-radius: 50%;
+    
+}
+.fileInfoElProfile {
+    margin: auto 25%;
+
+} 
+.profileInformation {
+    
+    color: #800f2a;
+    margin: 10px -20px;
+    max-width: 300px;
+    padding: 10px 15px;
+    border: 3px solid #999cd6;
+    background-color:burlywood;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.profileInformation span {
+    font-weight: 400;
+    font-family: fantasy ;
+    color:darkcyan;
+}
+.profileInformationElement {
+    padding: 2px;
+    border: 2px solid  #999cd6 ; 
+    border-radius: 15%;
+    background-color: #aaabb0;
+} 
+.profileInformationElement input {
+    padding: 2px;
+    border: none;
+    border-radius: 15%;
+    background-color: #fff;
+    z-index: 300;
+    margin-top: 20px;
+    width: 285px;
+} 
+.profileInformationElementImg {
+    margin: auto 7%;
+}
+
+.fileInfoEl img {
+   
+ width: 250px;  
+margin: 10px 30%;
+    
+    
+}
+.desc {
+    padding: 10px;
+}
+
+.statusInfo input {
+    display: flex;
+    z-index: 200;
+    transform: translate(10px, 10px);
+    background-color: #bbbbbc;
+    border: none;
+}

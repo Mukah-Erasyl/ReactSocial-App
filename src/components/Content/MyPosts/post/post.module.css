@@ -1,0 +1,18 @@
+.content {
+    grid-area: main;
+    
+    
+
+    
+}
+.content img {
+    width: 20px;
+    border-radius: 50%;
+    height: 20px;
+}
+.postText {
+    margin-bottom: 15px;
+}
+.postLike {
+    margin: auto 20px;
+}

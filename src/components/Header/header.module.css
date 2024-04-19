@@ -1,0 +1,49 @@
+.header img {
+    width: 50px;
+}
+.high_pos {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+   
+    
+}
+
+.high_links a {
+    color: white;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+.high_links {
+    margin-top: 10px;
+}
+.high_links img {
+    display: block;
+    width: 20px; 
+    height: 18px;
+    border-radius: 50%;
+}
+
+
+
+.head {
+    grid-area: head;
+    background-color: #655d6b;
+    color: aliceblue;
+    font-size: 12px;
+}
+
+
+.headAva img {
+    width: 25px;
+}
+
+.headAva {
+    margin-left: 40px;
+    display: inline;
+}
+
+.headAvas {
+    margin-bottom: 100px;
+}

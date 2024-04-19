@@ -1,0 +1,30 @@
+.app_wallaper {
+    display: grid;
+    grid-template-areas: 
+        "head head"
+         "link main" ; 
+    grid-template-rows: 90px 1fr;
+    grid-template-columns: 2fr 10fr;
+    width: 1000px;
+    margin: 0 auto;
+    grid-gap: 40px;
+    
+}
+
+.app_wallaper_content {
+    grid-area: main;
+    background-color: #655d6b;
+    
+    
+}
+.app_wallaper_contentaAl {
+    grid-area: main;
+    background-color: #84050e;
+    
+    
+}
+
+
+
+
+ 

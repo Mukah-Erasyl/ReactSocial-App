@@ -1,0 +1,41 @@
+.commonNewsEl {
+    display: flex;
+    border: 2px solid aliceblue;
+    padding: 5px;
+    color: aliceblue;
+    margin: 5px;
+}
+.commonNewsEl span {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2px;
+    border: 2px solid #534d50;
+}
+
+.PhotoNewsEl {
+    width: 200px;
+    border: 2px solid salmon;
+}
+.text {
+    border: 2px solid black;
+}
+.source {
+    margin-left: 10px;
+    text-decoration: none;
+}
+.source a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.source a:hover {
+    color: red;
+    text-decoration: underline;
+
+}
+
+.head {
+    margin-left: 20px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

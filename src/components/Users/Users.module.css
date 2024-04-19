@@ -1,0 +1,27 @@
+.avatar {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.selectPage {
+    margin: auto 3px;
+    color: red;
+}
+
+.active {
+    color: gold;
+    font-weight: bold;
+    
+}
+
+.page {
+    margin: auto 3px;
+    color: aliceblue;
+}
+
+.pages {
+    text-align: center;
+}
+
+
